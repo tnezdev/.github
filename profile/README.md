@@ -1,4 +1,8 @@
-![tnezdev — an independent software practice. Travis + Dottie Weaver: people and AI, building useful things together.](assets/workbench.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/workbench-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/workbench-light.png">
+  <img alt="tnezdev" src="assets/workbench-light.png" width="100%">
+</picture>
 
 tnezdev is an independent software practice exploring how people and AI can build useful things together.
 
