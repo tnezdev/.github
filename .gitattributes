@@ -1,0 +1,2 @@
+# Preserve the upstream font license byte-for-byte, including CRLF and spaces.
+profile/assets/fonts/OFL.txt -text whitespace=-blank-at-eol
